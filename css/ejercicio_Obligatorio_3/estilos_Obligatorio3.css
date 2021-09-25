@@ -1,0 +1,31 @@
+*{margin :0}
+
+.contenedor{
+    display:flex;
+    justify-content: space-around;
+    height:500px;
+    margin-top:40px;
+    margin:20px;
+}
+
+.cajaNegra{
+    display: flex;
+    font-size: 2.7vw;
+    align-items:flex-start;
+    height: 24vw;
+    width:24%;
+    background-color:black;
+    color:white;
+    font-family: 'Kaisei Decol',serif;
+}
+
+.cajaRoja{
+    display: flex;
+    font-size:2.7vw;
+    align-items:flex-start;
+    height:24vw;
+    width:24%;
+    background-color:red;
+    color:yellow;
+    font-family: 'Kaisei Decol',serif;
+}
